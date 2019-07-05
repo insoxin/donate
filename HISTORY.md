@@ -30,5 +30,5 @@
 | Arnaout \* | 2019-02-24 |   $10.00 | Paypal | Thank you for the great work with docsify. Keep it up! |
 | \*孟 | 2019-03-15 | ¥9.99 | Wechat | docsify 资瓷 |
 | Noxlogic | 2019-03-21 |  $10.00 | Paypal |  |
-| \*然 | 2019-06-21 |  ¥5.00 |  | Wechat | 希望木函越做越好qwq    |
-| \*竟航 | 2019-06-30 | ¥16.66  | Alipay |                      |
+| \*然 | 2019-06-21 |  ¥5.00 |Wechat | 希望木函越做越好qwq    |
+| * 竟航 | 2019-06-30 | ¥16.66  | Alipay |                      |
